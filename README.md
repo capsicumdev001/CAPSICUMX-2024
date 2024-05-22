@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CD1 (GitHub Software Repository)</title>
+  CAPSICUMX-2024
 </head>
 <body>
 <h1>Welcome to the official CAPSICUMX-2024 software*, the all-in-one communications, media & project sharing, task tracking and creative platform!</h1>
